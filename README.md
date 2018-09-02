@@ -10,3 +10,11 @@ Convert an image to ASCII image and show it in terminal.
 
 ![Docker in ASCII](.github/screenshot.png)
 
+### INSTALLATION
+
+Just run:
+
+```
+docker run dantehemerson/iknowdocker
+```
+
