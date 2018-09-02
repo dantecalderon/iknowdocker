@@ -1,5 +1,5 @@
 # I Know DOCKER
-> My first container in Docker.
+> My first Docker container.
 
 ### About
 Convert an image to ASCII image and show it in terminal.
